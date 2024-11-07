@@ -2,8 +2,6 @@
 
 > a collection of efficiency tools, learning resource and something awesome by deanti
 
-[TOC]
-
 ## Leaning Resource
 
 - [鸟哥的Linux私房菜](https://linux.vbird.org/linux_basic/): Learing linux
