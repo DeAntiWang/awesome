@@ -8,6 +8,14 @@
 
 ## Efficiency tools
 
-- [SuperMemory](https://supermemory.ai/home): the second brain
-- [Bark](https://github.com/Finb/Bark): a push message service
-- [Paperless-ngx](https://docs.paperless-ngx.com/): document management and analysis
+- [SuperMemory](https://supermemory.ai/home): the second brain  
+- [Bark](https://github.com/Finb/Bark): a push message service  
+- [Paperless-ngx](https://docs.paperless-ngx.com/): document management and analysis  
+- [Podwise](https://podwise.ai/): AI analysis and summary for podcast  
+- [Hoarder](https://hoarder.app/): Reading later collection  
+
+## Follwing
+
+> Expected to be a awesome project
+
+- [Koodo Reader](https://www.koodoreader.comz): OpenSource Bookes management and reading app
