@@ -13,6 +13,7 @@
 - [Paperless-ngx](https://docs.paperless-ngx.com/): Document management and analysis  
 - [Podwise](https://podwise.ai/): AI analysis and summary for podcast  
 - [Hoarder](https://hoarder.app/): Reading later collection
+- [Soundslice](https://www.soundslice.com/): Online Guitar Pro score/tabs viewer
 
 ## Information and WebSite
 
